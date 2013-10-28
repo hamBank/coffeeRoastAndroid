@@ -1,0 +1,19 @@
+<resources>
+
+    <string-array name="tempraturePoints">
+        <item>45.0</item>
+        <item>180.0</item>
+        <item>194.0</item>
+        <item>203.0</item>
+        <item>219.0</item>
+    </string-array>
+
+    <string-array name="rocPoints">
+        <item>8.0</item>
+        <item>18.0</item>
+        <item>12.0</item>
+        <item>8.0</item>
+        <item>3.0</item>
+    </string-array>
+    
+</resources>

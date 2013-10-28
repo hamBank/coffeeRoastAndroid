@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<PreferenceCategory android:title="Temprature Settings"
+		android:key="temps_category">
+
+		<ListPreference android:key="tempraturePoints"
+			android:title="Temprature points" android:summary="Define tempratues where the ROC will change"
+			android:defaultValue="40" android:entries="@array/tempraturePoints"
+			android:entryValues="@array/rocPoints" android:dependency="perform_updates" />
+
+	</PreferenceCategory>
+
+</PreferenceScreen>

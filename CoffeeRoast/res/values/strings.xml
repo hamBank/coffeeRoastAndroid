@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, CoffeeRoastActivity!</string>
+    <string name="app_name">CoffeeRoast</string>
+    <string name="runTime">Run Time</string>
+    <string name="tempDisplay">Temp:</string>
+    <string name="roc">RoC</string>
+    <string name="rocTarget">Target RoC</string>
+    <string name="maxTemp">Max Temp:</string>
+    <string name="off">Off</string>
+    <string name="hold">Hold</string>
+    <string name="auto">Auto</string>
+    <string name="manual">Manual</string>
+    <string name="load">Load</string>
+    <string name="save">Save</string>
+    <string name="reset">Reset</string>
+    <string name="alarmTemp">"Alarm: "</string>
+
+</resources>
